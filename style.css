@@ -93,7 +93,7 @@ article {
 #comuniti {
   display: block;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  margin: -70px 0 0 580px;
+  margin: -70px 0 0 530px;
   font-size: 13px;
   color: #6a737c;
   text-decoration: none;
@@ -101,17 +101,22 @@ article {
 
 #revs {
   display: inline;
-  margin: -17px;
+  position: relative;
+  left: 0px;
+  bottom: -6px;
   font-size: 13px;
   color: #0077cc;
   text-decoration: none;
 }
 
-hr {
-  display: block;
-  margin: 8px 38px 0 36px;
-  color: #4e4e4e38;
-  opacity: 0.3;
+#matt {
+  display: inline;
+  position: relative;
+  left: 0px;
+  bottom: -9px;
+  font-size: 13px;
+  color: #0077cc;
+  text-decoration: none;
 }
 
 #help {
@@ -119,8 +124,8 @@ hr {
   display: inline-block;
   height: 57px;
   width: 660px;
-  left: 60px;
-  top: 9px;
+  left: 52px;
+  top: 34px;
   border-bottom-color: rgba(128, 128, 128, 0.5);
   border-bottom-width: 1px;
   border-bottom-style: solid;
@@ -163,8 +168,8 @@ hr {
 #add {
   position: relative;
   display: inline-block;
-  left: 60px;
-  bottom: 68px;
+  left: 28px;
+  bottom: 42px;
   text-decoration: none;
   color: grey;
   font-size: 13px;
@@ -174,8 +179,8 @@ hr {
   position: relative;
   height: 57px;
   width: 660px;
-  bottom: 47px;
-  left: 59px;
+  bottom: 20px;
+  left: 23px;
   border-bottom-color: rgba(128, 128, 128, 0.5);
   border-bottom-width: 1px;
   border-bottom-style: solid;
